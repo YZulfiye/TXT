@@ -1,1 +1,15 @@
 
+Summary (короткий опис) - короткий опис проблеми і тип проблемної ситуації.
+Project (проект) - назва проекту, який тестується.
+Component - назва тестуючого компоненту.
+Version - версія, на якій було знайдено помилку.
+Severity - серйозність (Blocker, Critical, Major, Manor, Trivial).
+Priority - пріорітет (Hogh, Medium, Low).
+Status - статус бага.
+Author - автор звіту про баг.
+Environment - інформація про оточення, на якому виявлено баг.
+Steps to reproduce - кроки відтворення багу.
+Actual Result - актуальний результат.
+Expected result - очікуваний результат.
+Attachment - файл, скрін відтворення помилки.
+Основні: Title, Steps to Reproduce (Кроки відтворення багу), Expected Result (Очікуванй результат), Actual Result (Актуальний результат). 
